@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* to put the header into center*/
+#main-header {
+    text-align: center;
+   
+}
+/* to make the unorderlist with color green anf font-weight bold and put border and backgroundcolor*/
+.unord {
+    font-weight: bold;
+    color: green;
+    border: 1px solid black;
+    background-color: lightgray;
+ 
+    padding: 20px;
+  
+}
+/* to make some space between list item  AND border*/
+.unord li {
+    margin-left: 20px;
+}
